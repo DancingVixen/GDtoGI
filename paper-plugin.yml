@@ -1,0 +1,5 @@
+name: GDtoGI
+main: krashgmbh.gdtogi.GDtoGI
+version: 1.0
+author: Krash
+api-version: '1.20'
