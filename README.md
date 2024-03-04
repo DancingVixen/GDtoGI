@@ -12,3 +12,5 @@ this is tested and working 1.20.2 paper idk if it will work in other versions bu
 you need gradle to build this dont ask me for help because i myself have no idea how any of this works 
 
 GDtoGI = GlowstoneDust to Glow Ink
+
+![picture](https://github.com/DancingVixen/GDtoGI/blob/main/image.png?raw=true)
